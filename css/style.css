@@ -1,0 +1,22 @@
+.title-poem	{
+	margin: 0;
+	text-align: center;
+	font-size: 70px;
+	line-height: 1.7;
+	font-weight: bold;
+	}
+
+.author {
+	margin: 0;
+	text-align: center;
+	font-size: 25px;
+	line-height: 1.7;
+	font-style: italic;
+
+}
+.poem {
+    margin: 0;
+    text-align: center;
+    font-size: 35px;
+    line-height: 1.7;
+    }
